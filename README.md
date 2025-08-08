@@ -7,3 +7,5 @@
 - [Isolation Forest – TOP 10](report/tables/ifor_top10.md)
 - [OCSVM – TOP 10](report/tables/ocsvm_top10.md)
 - [LOF – TOP 10](report/tables/lof_top10.md)
+### Slenksčio jautrumas
+![Jautrumo kreivė](report/img/sensitivity.png)
