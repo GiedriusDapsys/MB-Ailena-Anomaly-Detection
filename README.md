@@ -9,3 +9,4 @@
 - [LOF – TOP 10](report/tables/lof_top10.md)
 ### Slenksčio jautrumas
 ![Jautrumo kreivė](report/img/sensitivity.png)
+[Pilnos išvados](report/Isvados.md)
