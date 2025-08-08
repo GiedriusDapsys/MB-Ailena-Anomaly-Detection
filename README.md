@@ -10,3 +10,11 @@
 ### Slenksčio jautrumas
 ![Jautrumo kreivė](report/img/sensitivity.png)
 [Pilnos išvados](report/Isvados.md)
+## Išvados (trumpai)
+- Pritaikyti 4 anomalijų aptikimo modeliai: Autoencoder (MSE), Isolation Forest, OCSVM, LOF.
+- Duomenys – mėnesiniai pardavimai per prekių grupes (2025 m., stulpeliai: Mėnuo, Kiekis, Pirkimo/Pardavimo suma EUR, Pelno stulpelis).
+- Naudotas slenkstis: 85-asis procentilis pagal rekonstrukcijos/”score” reikšmes.
+- Modelių aptiktų anomalijų kiekiai – panašūs (vizualizacija README viršuje).
+- Daugiausiai anomalijų kartojasi šiose prekių grupėse: *(įrašyk pagal TOP lenteles)*.
+- Verslui: anomalijos dažniausiai sutampa su staigiais nuokrypiais (kiekiai/įplaukos/pelnas). Rekomenduota automatinė tikrintina sąrašų peržiūra kas mėnesį.
+- Pilnos išvados ir TOP-10 lentelės – [čia](report/Isvados.md).
