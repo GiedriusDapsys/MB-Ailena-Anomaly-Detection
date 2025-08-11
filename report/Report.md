@@ -34,6 +34,12 @@
 - Galimos priežastys (sezoniškumas, tiekimas, kainodara, akcijos).
 - Operacinės rekomendacijos (užsakymų planavimas, kainų peržiūra).
 - ### 06.1 Rezultatų santrauka (@85th)
+**Papildomos lentelės:**
+- [Modelių santrauka](tables/model_summary.md)
+- [AE – TOP10](tables/ae_top10.md)
+- [IForest – TOP10](tables/ifor_top10.md)
+- [OCSVM – TOP10](tables/ocsvm_top10.md)
+- [LOF – TOP10](tables/lof_top10.md)
 
 ![Anomalijų skaičius (@85th)](../anomaly_count_by_model.png)
 
