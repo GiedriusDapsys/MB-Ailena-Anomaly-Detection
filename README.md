@@ -18,3 +18,8 @@
 - Daugiausiai anomalijų kartojasi šiose prekių grupėse: *(įrašyk pagal TOP lenteles)*.
 - Verslui: anomalijos dažniausiai sutampa su staigiais nuokrypiais (kiekiai/įplaukos/pelnas). Rekomenduota automatinė tikrintina sąrašų peržiūra kas mėnesį.
 - Pilnos išvados ir TOP-10 lentelės – [čia](report/Isvados.md).
+- Repo (landing): https://github.com/GiedriusDapsys/MB-Ailena-Anomaly-Detection
+
+Ataskaita (Report.md): https://github.com/GiedriusDapsys/MB-Ailena-Anomaly-Detection/blob/main/report/Report.md
+
+Colab (notebook): https://colab.research.google.com/github/GiedriusDapsys/MB-Ailena-Anomaly-Detection/blob/main/notebooks/MB%20Ailena%20Anomaly%20Detection%20Report.ipynb
