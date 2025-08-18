@@ -12,18 +12,15 @@ Bazinis slenkstis – **85-asis procentilis** (patikrintas jautrumas 70–95 %).
 - Sprendimo taisyklė: score > slenkstis ⇒ anomalija; slenkstis = procentilis.
 
 ## 3. Rezultatai
-- Modelių aptiktos anomalijos (agreguota):
-  ![Anomalijų skaičius (@85th)](../anomaly_count_by_model.png)
+### Ataskaitos lentelės
+- [Modelių santrauka](report/model_summary.md)
+- [AE – TOP 10](report/ae_top10.md)
+- [Isolation Forest – TOP 10](report/ifor_top10.md)
+- [OCSVM – TOP 10](report/ocsvm_top10.md)
+- [LOF – TOP 10](report/lof_top10.md)
 
-- TOP-10 pagal kiekvieną modelį:
-  - AE: [TOP10](tables/ae_top10.md)
-  - Isolation Forest: [TOP10](tables/ifor_top10.md)
-  - OCSVM: [TOP10](tables/ocsvm_top10.md)
-  - LOF: [TOP10](tables/lof_top10.md)
-
-- Modelių suvestinė: [model_summary](tables/model_summary.md)
-
-> Pastaba: jei turi paveikslus `report/img/*`, čia įdėk papildomus grafikus/sensitivumo kreivę.
+### Slengsčio jautrumas
+[![Jautrumo kreivė](report/anomaly_count_by_model.png)](report/isvados.md)
 
 ## 4. Verslo išvados ir rekomendacijos
 - **Dažniausios anomalijos** pastebėtos prekių grupėse: *(įrašyk pagal savo TOP lenteles)*.
