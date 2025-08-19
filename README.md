@@ -1,15 +1,19 @@
 # MB-Ailena-Anomaly-Detection
 ### Anomalijų skaičius (@85th)
 ![Anomalijų skaičius](anomaly_count_by_model.png)
-### Ataskaitos lentelės
-- [Modelių santrauka](report/tables/model_summary.md)
-- [AE – TOP 10](report/tables/ae_top10.md)
-- [Isolation Forest – TOP 10](report/tables/ifor_top10.md)
-- [OCSVM – TOP 10](report/tables/ocsvm_top10.md)
-- [LOF – TOP 10](report/tables/lof_top10.md)
-### Slenksčio jautrumas
-![Jautrumo kreivė](report/img/sensitivity.png)
-[Pilnos išvados](report/Isvados.md)
+## Ataskaitos lentelės
+
+- [Modelių santrauka](report/model_summary.md)
+- [AE – TOP 10](report/ae_top10.md)
+- [Isolation Forest – TOP 10](report/ifor_top10.md)
+- [OCSVM – TOP 10](report/ocsvm_top10.md)
+- [LOF – TOP 10](report/lof_top10.md)
+
+## Slengsčio jautrumas
+[![Jautrumo kreivė](report/img/sensitivity.png)](report/isvados.md)
+
+[![Anomalijų skaičius](report/anomaly_count_by_model.png)](report/isvados.md)
+
 ## Išvados (trumpai)
 - Pritaikyti 4 anomalijų aptikimo modeliai: Autoencoder (MSE), Isolation Forest, OCSVM, LOF.
 - Duomenys – mėnesiniai pardavimai per prekių grupes (2025 m., stulpeliai: Mėnuo, Kiekis, Pirkimo/Pardavimo suma EUR, Pelno stulpelis).
