@@ -12,9 +12,6 @@
 ## Slengsčio jautrumas
 [![Jautrumo kreivė](report/img/sensitivity.png)](report/isvados.md)
 
-[![Anomalijų skaičius (@85th)](report/img/anomaly_count_by_model.png)](report/img/anomaly_count_by_model.png)
-
-
 ## Išvados (trumpai)
 - Pritaikyti 4 anomalijų aptikimo modeliai: Autoencoder (MSE), Isolation Forest, OCSVM, LOF.
 - Duomenys – mėnesiniai pardavimai per prekių grupes (2025 m., stulpeliai: Mėnuo, Kiekis, Pirkimo/Pardavimo suma EUR, Pelno stulpelis).
