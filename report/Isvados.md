@@ -22,6 +22,7 @@ Bazinis slenkstis – **85-asis procentilis** (patikrintas jautrumas 70–95 %).
 ### Slengsčio jautrumas
 [![Jautrumo kreivė](report/anomaly_count_by_model.png)](report/isvados.md)
 
+
 ## 4. Verslo išvados ir rekomendacijos
 - **Dažniausios anomalijos** pastebėtos prekių grupėse: *(įrašyk pagal savo TOP lenteles)*.
 - **Anomalijų tipinė priežastis** (hipotezės): netipiniai kiekiai, kainų/pirkimo sumos šuoliai, akcijos/likvidacijos, apskaitos klaidos, netipiniai užsakymai.
