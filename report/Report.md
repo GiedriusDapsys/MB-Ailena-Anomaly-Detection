@@ -36,16 +36,20 @@
 - ### 06.1 Rezultatų santrauka (@85th)
 
 **Papildomos lentelės:**
-### „Modulių lentelės“
-- [Modelių santrauka](report/model_summary.md)
-- [AE – TOP10](report/ae_top10.md)
-- [Isolation Forest – TOP10](report/ifor_top10.md)
-- [OCSVM – TOP10](report/ocsvm_top10.md)
-- [LOF – TOP10](report/lof_top10.md)
+## 3. Rezultatai
 
-![anomalijų skaičius](report/anomaly_count_by_model.png)
+### Ataskaitos lentelės
+- [Modelių santrauka](model_summary.md)
+- [AE – TOP 10](ae_top10.md)
+- [Isolation Forest – TOP 10](ifor_top10.md)
+- [OCSVM – TOP 10](ocsvm_top10.md)
+- [LOF – TOP 10](lof_top10.md)
 
-![Anomalijų skaičius (@85th)](../anomaly_count_by_model.png)
+### Slengsčio jautrumas
+[![Jautrumo kreivė](img/sensitivity.png)](isvados.md)
+
+<!-- Jei neturi img/sensitivity.png, vietoje to gali naudoti žemiau esantį paveikslą -->
+<!-- [![Anomalijų skaičius](anomaly_count_by_model.png)](isvados.md) -->
 
 **Modelių anomalijų skaičius:**
 - AE_MSE: **3**
